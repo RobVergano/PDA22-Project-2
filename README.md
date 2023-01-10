@@ -33,7 +33,7 @@ For more information see Project description folder.
 
 # 4. SOFTWARE AND PYTHON MODULES USED.
 
-Anaconda
+Anaconda  
 Python modules: pandas, numpy, matplotlib, seaborn, sklearn, pytorch, imblearn, sdv. For full description see section "Python libraries" in PDA22 Project 2.ipynb file.  
 Jupyter noteebok.  
 
